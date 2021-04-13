@@ -26,3 +26,5 @@ override.tf.json
 .terraformrc
 terraform.rc
 ```
+
+Новая строка для задания 02-git-02-base
